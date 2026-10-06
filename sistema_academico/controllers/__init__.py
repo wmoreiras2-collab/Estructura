@@ -1,0 +1,4 @@
+from .controlador_estudiante import ControladorEstudiante
+from .controlador_docente import ControladorDocente
+from .controlador_asignatura import ControladorAsignatura
+from .controlador_curso import ControladorCurso
