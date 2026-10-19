@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "nombre": "Ismael",
+    "apellido": "Moreira",
+    "email": "ismaelmoreirasanchez27@gmail.com",
+    "telefono": "0959679259",
+    "ciudad": "Daule"
+  },
+  {
+    "id": 2,
+    "nombre": "Angela",
+    "apellido": "Sanchez",
+    "email": "angelamoreira03@gmail.com",
+    "telefono": "0959679259",
+    "ciudad": "Daule"
+  }
+]

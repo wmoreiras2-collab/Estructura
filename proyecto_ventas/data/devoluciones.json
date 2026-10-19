@@ -1,0 +1,10 @@
+[
+  {
+    "id": 1,
+    "venta_id": 1,
+    "cantidad": 1,
+    "motivo": "defectuoso",
+    "monto": 408.25,
+    "fecha": "2026-10-18"
+  }
+]
